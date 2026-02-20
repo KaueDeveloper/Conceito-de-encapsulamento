@@ -18,9 +18,9 @@
 
 </td valign="top" width="25%">
   
-  <div align="start">
+  <div align="center">
 
-    O conceito de encapsulamento é um dos quatro pilares da Programação Orientada á Objetos (POO) e consiste em proteger os dados internos de um objeto e expor apenas o nescessário para que outros objetos possam interagir com ele, é a tecnica de agrupar dados e comportamentos relacionados em uma única cápsula (como uma classe), escondendo os detalhes internos e expondo apenas o nescessário para que o resto do programa interaja de forma segura e controlada.
+  O conceito de encapsulamento é um dos quatro pilares da Programação Orientada á Objetos (POO) e consiste em proteger os dados internos de um objeto e expor apenas o nescessário para que outros objetos possam interagir com ele, é a           tecnica de agrupar dados e comportamentos relacionados em uma única cápsula (como uma classe), escondendo os detalhes internos e expondo apenas o nescessário para que o resto do programa interaja de forma segura e controlada.
   
   </div>
 
