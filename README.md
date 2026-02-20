@@ -7,7 +7,7 @@
 
 <!--Introdução-->
 <div align="center">
-    <img src="assets/citacao.png" width="500">
+    <img src="assets/citacao.png" width="380">
 </div>
 
 <br>
