@@ -1,5 +1,5 @@
 <!--Criativo-->
-<img src="assets/conceito-de-encapsulamento-criativo.png" width="100%" height="300" alt="Criativo">
+<img src="assets/conceito-de-encapsulamento-criativo.png" width="100%" height="220" alt="Criativo">
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVpYmsxcXRmNzVkbm0wejNtcDh6NmNmdmdndnMzNDBnY3ZoNjJyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYboIRThtQOsc7bUsT/giphy.gif" width="100%" height="20" />
