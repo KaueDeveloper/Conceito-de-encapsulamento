@@ -45,8 +45,8 @@
 </td>
 <td>
   <div align="start">
-    <p>Com as operações matemáticas encapsuladas em uma única classe, fica mais fácil manter, organizar e evoluir o código, centralizando a lógica em um único ponto e evitando duplicação.
-    Para utilizar as operações matemáticas, apenas faça a <strong><code>importação e instanciação</code></strong> do objeto. Depois, é só utilizar os métodos da maneira que desejar.</p>
+    <p>Com as operações matemáticas encapsuladas em uma única<br> classe, fica mais fácil manter, organizar e evoluir o código,<br> centralizando a lógica em um único ponto e evitando duplica<br>ção.
+    Para utilizar as operações matemáticas, apenas faça a<br> <strong><code>importação e instanciação</code></strong> do objeto. Depois, é só utilizar<br> os métodos da maneira que desejar.</p>
     <br>
   </div>
   <p><strong>1. Faz a soma de dois números inteiros</strong></p>
@@ -58,6 +58,12 @@
 
     UTILS.subtrair(20, 5);
 <em>Retorno: 15</em>
+
+<div align="center">
+  
+### ...
+
+</div>
 
   </td>
   </tr>
