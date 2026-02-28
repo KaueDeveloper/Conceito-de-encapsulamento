@@ -59,16 +59,6 @@
     UTILS.subtrair(20, 5);
 <em>Retorno: 15</em>
 
-  <p><strong>3. Faz a multiplicação de dois números inteiros</strong></p>
-
-    UTILS.multiplicar(15, 2);
-<em>Retorno: 30</em>
-
-  <p><strong>4. Faz a divisão de dois números inteiros</strong></p>
-
-    UTILS.dividir(20, 5);
-<em>Retorno: 4</em>
-
   </td>
   </tr>
 </table>
