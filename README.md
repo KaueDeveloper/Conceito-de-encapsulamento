@@ -40,7 +40,7 @@
   <!--Imagem de exemplo (Classe de utilitários matemáticos)-->
   <div align="center">
     <h3>Utilitários matemáticos encapsulados</h3>
-    <img src="assets/classeCode.png" width="450" height="800" alt="Exemplo de encpsulamento - image">
+    <img src="assets/classeCode.png" width="450" height="100%" alt="Exemplo de encpsulamento - image">
   </div>
 </td>
 <td>
