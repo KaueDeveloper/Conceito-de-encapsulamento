@@ -38,7 +38,7 @@
 <tr>
 <td>
   <!--Imagem de exemplo (Classe de utilitários matemáticos)-->
-  <div>
+  <div align="center">
     <h3>Utilitários matemáticos encapsulados</h3>
     <img src="assets/classeCode.png" width="450" height="" alt="Exemplo de encpsulamento - image">
   </div>
